@@ -1,0 +1,3 @@
+Primary-Color: #0066FF;
+Secondary-Color: #EEC000;
+Other: #f3d400;
